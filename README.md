@@ -245,7 +245,8 @@ newman run FAHIM_SADMAN_TALUKDER.postman_collection.json -e FAHIM_SADMAN_TALUKDE
 ```
 
 ## Newman Report Summary:
-![Newman Report Summary]![Report](https://github.com/user-attachments/assets/d70a6db9-5a87-47b8-b3a1-561100bb7e94)
+![Newman Report Summary]![Report]![Screenshot (39)](https://github.com/user-attachments/assets/358224e1-9192-4489-a111-a647487f09ef)
+
 
 ![Newman Report Summary]![Report1](https://github.com/user-attachments/assets/28463ea5-bee4-4174-8356-b7b0acc69596)
 
